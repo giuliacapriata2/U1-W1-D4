@@ -1,0 +1,52 @@
+
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-family: Arial, sans-serif;
+}
+
+
+body {
+  background-image: url('../immagini/sfondo.png'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+
+
+
+
+
+.contenuto1 {
+  text-align: center;
+  color: rgb(5, 5, 5); 
+  padding: 50px;
+  background-color: hsla(229, 80%, 33%, 0.895);
+  max-width: 600px;
+  margin: 100px auto; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+}
+.contenuto2 {
+  text-align: center;
+  color: rgb(6, 6, 6); 
+  padding: 50px;
+  background-color: rgba(246, 245, 249, 0.968);
+  max-width: 600px;
+  margin: 100px auto; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+}
+.contenuto3 {
+  text-align: center;
+  color: rgb(7, 7, 7); 
+  padding: 50px;
+  background-color: rgba(44, 21, 120, 0.858);
+  max-width: 600px;
+  margin: 100px auto; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5); 
+}
+.logo {
+    width: 120px; 
+    height: auto; 
+    margin-bottom: 15px; 
